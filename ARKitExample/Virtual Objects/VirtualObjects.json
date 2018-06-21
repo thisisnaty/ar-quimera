@@ -1,0 +1,24 @@
+ [
+  
+  {
+  "modelName": "ufo",
+  "displayName": "ufo",
+  "particleScaleInfo": { }
+  },
+  {
+  "modelName": "co",
+  "displayName": "co",
+  "particleScaleInfo": { }
+  },
+  {
+  "modelName": "pm10",
+  "displayName": "pm10",
+  "particleScaleInfo": { }
+  },
+  {
+  "modelName": "pm25",
+  "displayName": "pm25",
+  "particleScaleInfo": { }
+  }
+  ]
+
